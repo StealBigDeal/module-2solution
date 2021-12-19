@@ -4,8 +4,8 @@
 }
 
 body{
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
@@ -49,28 +49,28 @@ h1 {
   margin: 2.5%;
   color: black
   font-size: 25px;
-  padding: 3%;
+  padding: 2%;
   padding-top: 55px;
-  background-color: #ffffe6;
+  background-color: rgba(0,0,0,0.3);
 }
 
-.menu1{
-  background-color: #cc0066;
+.name1{
+  background-color: #FFB6C1;
 }
 
-.menu2{
+.name2{
   color: white;
-  background-color: #00b300;
+  background-color: #FF0000;
 }
-.menu3{
-  background-color: #1a53ff;
+.name3{
+  background-color: #FFFF00;
 }
 
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-lg-4 {
-  	float: left;
+    float: left;
     width: 33.33%;
   }
 }
@@ -94,7 +94,7 @@ h1 {
 
 @media (min-width: 0px) and (max-width: 767px) {
   .col-sm-12 {
-  	float: left;
+    float: left;
     width: 100%;
   }
   .content-name{
