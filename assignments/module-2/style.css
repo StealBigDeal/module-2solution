@@ -49,21 +49,21 @@ h1 {
   margin: 2.5%;
   color: black
   font-size: 25px;
-  padding: 2%;
+  padding: 3%;
   padding-top: 55px;
-  background-color: rgba(0,0,0,0.3);
+  background-color: #ffffe6;
 }
 
-.name1{
-  background-color: #FFB6C1;
+.menu1{
+  background-color: #cc0066;
 }
 
-.name2{
+.menu2{
   color: white;
-  background-color: #FF0000;
+  background-color: #00b300;
 }
-.name3{
-  background-color: #FFFF00;
+.menu3{
+  background-color: #1a53ff;
 }
 
 
